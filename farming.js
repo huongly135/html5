@@ -39,7 +39,7 @@ farming.start = function(){
         {
             name: 'tomato',
             cost: 10,
-            revenue: 18,
+            revenue: 10000,
             time_to_ripe: 10, //secods
             time_to_death: 30, //second from when it's ripe
             image: 'tomato.png'
